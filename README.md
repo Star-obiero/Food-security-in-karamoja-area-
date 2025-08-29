@@ -206,8 +206,8 @@ Sustainability & Exit Plan
 ! Project Report
 
 You can view our full project report here:  
-[Google Doc Link](https://public.tableau.com/app/profile/lynn.rotich/viz/Group_9_Tableau_Workbook_17564945353750/RelationshipofCropGrowingAreaToTheTotalCropYield?publish=yes)
-Explore the interactive dashboard on [Tableau Public](Tableau DASSHBORD.PNG).
+[Google Doc Link](https://docs.google.com/document/d/1euVAsRmF__Y5HhQrDEgSGU4-59-kBV0gpekxJH1IojM/edit?usp=sharing)
+Explore the interactive dashboard on (https://public.tableau.com/app/profile/lynn.rotich/viz/Group_9_Tableau_Workbook_17564945353750/RelationshipofCropGrowingAreaToTheTotalCropYield?publish=yes).
 
 ![Dashboard Preview](Tableauimage.png)
 
