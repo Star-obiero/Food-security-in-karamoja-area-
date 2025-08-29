@@ -1,4 +1,4 @@
-# Food-security-in-karamoja-area-
+# Food Security in Karamoja area
 
 The visualization focuses on the Karamoja region of Uganda, the most food-insecure area in the country, providing NGOs with insights into the most vulnerable areas to ensure that interventions are accurately targeted and effective.
 
